@@ -3,4 +3,4 @@ A ROS2 package that converts received twist topics into velocity commands in a s
 
 Please remember to grant permissions to the output serial port, taking /dev/ttyACM0 as an example:
 
-sudo chmod 666 /dev/ttyACM0
+'sudo chmod 666 /dev/ttyACM0'
